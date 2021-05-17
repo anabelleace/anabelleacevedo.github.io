@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<manifest identifier="LHiiIcI8-3G50xEzMmEi7Ac0jxYpUoQNlWF1DdvD" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>milCloud® 2.0 Portals Overview</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>milCloud® 2.0 Portals Overview</title>
+        <adlcp:dataFromLMS>eyJjcHYiOiJsV0YxRGR2RCJ9</adlcp:dataFromLMS>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/assets/ML6T2uk-H0foJJC8_small.png" />
+<file href="scormcontent/assets/lkY2-xmJWAOlKx_V_BofWlHKhfFdAxkQe.jpg" />
+<file href="scormcontent/assets/Q2owi2pXYD3XgvXg_transcoded-eSHg4ZlctfU8CBGy-Intro%20Portals.mp3" />
+<file href="scormcontent/assets/us61exYUZ5NJOFUv_transcoded-UmjWTADeoS3Szbhu-Course%20Objectives.mp3" />
+<file href="scormcontent/assets/Roi9qK9veZ3HQ7C9_transcoded-67jd5-0x0yB0JkBD-WIIFM.mp3" />
+<file href="scormcontent/assets/UciToBKcXrWgwtMB_transcoded-DkRL0-b9IRNIjln4-Lesson%201%20Intro.mp3" />
+<file href="scormcontent/assets/wKMK1z4vFTklqUTr_wGWJ64M87iW-h7Q3.jpg" />
+<file href="scormcontent/assets/aHDfhABd6YfJDZkr_EGSsdVTxhpvEKSMJ.jpg" />
+<file href="scormcontent/assets/AjkeROY9u8IxLDdK_transcoded-KnMSQuPIE2rj5eBi-Lesson%202%20Intro.mp3" />
+<file href="scormcontent/assets/08ETbolF92baswXi_rg3upQzrSCa4h6bw.jpg" />
+<file href="scormcontent/assets/5Y6TzKFyvAQkDoG0_9HqvhEB5ocTUGWag.jpg" />
+<file href="scormcontent/assets/VlObR690aIqDK44H_7FJbnn4vS74OPeyK.jpg" />
+<file href="scormcontent/assets/fOEk8iYgkGt0ci6P_VevIFoEKwGAfx294.jpg" />
+<file href="scormcontent/assets/y7DGhd-bC1MwcEra_TQaw6NvWfpHK77eL.jpg" />
+<file href="scormcontent/assets/W0MOZi_yT7p2hIeB_dS58GEYRFHMhyBej.jpg" />
+<file href="scormcontent/assets/F8XfRLQlLhwGjU9q_sawrLjSkiCvK0X6r.jpg" />
+<file href="scormcontent/assets/EAeGDHHUD8hQ-DkL_transcoded-2jZIFx3w6QsSYVyF-Lesson%203%20Intro.mp3" />
+<file href="scormcontent/assets/a8FOTx5q1BlxrKB4_rQBiMkKQLofzIdjE.jpg" />
+<file href="scormcontent/assets/XGKIBlGYZ5z-TjNm_WvcOWCcXT1DNBsUn.jpg" />
+<file href="scormcontent/assets/wy126Rlt8-H2j8P5_mq_-v8_9-2aXAtu8.jpg" />
+<file href="scormcontent/assets/0ghw3JgtUNXMyzV9_transcoded--ZtVRlHLnbe1iiwv-Course%20Takeaways.mp3" />
+<file href="scormcontent/assets/4TQ_odVGtHUb24se_vXvRRdYBZJ900-Yj-mc2_Program_Portal_User_Guide.pdf" />
+<file href="scormcontent/assets/xUdCsdfAwI3bYths_96QhJ-HLYU0E9TQe-mc2_Business_Portal_User_Guide.pdf" />
+<file href="scormcontent/assets/a4QAqK6sDH3-jPcr_transcoded-EWXGSMbyYWSAyN8T-Objectives%20Recap.mp3" />
+<file href="scormcontent/assets/LzeJ3g6ZjScOHet4_l0hIOuRfcoycuy0V-stock-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
